@@ -11,6 +11,7 @@ $secret = "secretkey";
 $token = "{token}";
 
 // This should be changed depending on the properties that the new license key should have
+// Please see https://app.cryptolens.io/docs/api/v3/CreateKey for the available parameters.
 $create_key_request = "https://app.cryptolens.io/api/key/createkey?productId=3939&period=7&F1=true";
 
 
